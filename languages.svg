@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #f1e05a; 
-  width: 81.944%;
+  width: 81.898%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 6.904%;
+  width: 6.900%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 2.316%;
+  width: 2.315%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 2.015%;
+  width: 2.014%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 1.883%;
+  width: 1.882%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
   width: 1.054%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
-  width: 0.937%;
+  width: 0.936%;
 " class="progress-item"></span><span style="
   background-color: #a56de2; 
-  width: 0.700%;
+  width: 0.699%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.647%;
@@ -164,22 +164,22 @@ div.ellipsis {
   width: 0.560%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.453%;
+  width: 0.452%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.252%;
+  width: 0.266%;
 " class="progress-item"></span><span style="
   background-color: #ecdebe; 
   width: 0.243%;
+" class="progress-item"></span><span style="
+  background-color: #199f4b; 
+  width: 0.063%;
 " class="progress-item"></span><span style="
   background-color: #C1F12E; 
   width: 0.049%;
 " class="progress-item"></span><span style="
   background-color: #000; 
   width: 0.022%;
-" class="progress-item"></span><span style="
-  background-color: #199f4b; 
-  width: 0.021%;
 " class="progress-item"></span>
 </span>
 </div>
@@ -200,7 +200,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">81.94%</span>
+  <span class="percent">81.90%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -232,7 +232,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Zig</span>
-  <span class="percent">2.32%</span>
+  <span class="percent">2.31%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -248,7 +248,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Makefile</span>
-  <span class="percent">2.02%</span>
+  <span class="percent">2.01%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -376,7 +376,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Shell</span>
-  <span class="percent">0.25%</span>
+  <span class="percent">0.27%</span>
 </li>
 <li style="animation-delay: 1950ms;">
   <svg 
@@ -398,6 +398,22 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
+      style="fill: #199f4b;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Vim Script</span>
+  <span class="percent">0.06%</span>
+</li>
+<li style="animation-delay: 2250ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
       style="fill: #C1F12E;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -410,7 +426,7 @@ div.ellipsis {
   <span class="lang">Batchfile</span>
   <span class="percent">0.05%</span>
 </li>
-<li style="animation-delay: 2250ms;">
+<li style="animation-delay: 2400ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
@@ -424,22 +440,6 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">QMake</span>
-  <span class="percent">0.02%</span>
-</li>
-<li style="animation-delay: 2400ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
-      style="fill: #199f4b;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Vim Script</span>
   <span class="percent">0.02%</span>
 </li>
 
